@@ -1,0 +1,37 @@
+"My Plugins
+ 35 "Plug 'valloric/youcompleteme'
+ 34 Plug  'shougo/neocomplete.vim'
+ 33 Plug 'marijnh/tern_for_vim'
+ 32 Plug 'scrooloose/nerdtree'
+ 31 Plug 'pangloss/vim-javascript'
+ 30 Plug 'othree/html5.vim'
+ 29 Plug 'mxw/vim-jsx'
+ 28 Plug 'elzr/vim-json'
+ 27 "Plug 'jelera/vim-javascript-syntax'
+ 26 Plug 'hail2u/vim-css3-syntax'
+ 25 Plug 'cakebaker/scss-syntax.vim'
+ 24 Plug 'myusuf3/numbers.vim'
+ 23 "Plug 'othree/javascript-libraries-syntax.vim'
+ 22 Plug '1995eaton/vim-better-javascript-completion'
+ 21 Plug 'jiangmiao/auto-pairs'
+ 20 " Airline
+ 19 Plug 'vim-airline/vim-airline'
+ 18 Plug 'vim-airline/vim-airline-themes'
+ 17 " CtrlP
+ 16 Plug 'ctrlpvim/ctrlp.vim', { 'on': 'CtrlP' }
+ 15 " Color Schemes
+ 14 Plug 'dracula/vim',{'as':'dracula'}
+ 13 " NERD Commenter
+ 12 Plug 'scrooloose/nerdcommenter'
+ 11 " vim-ripgrep
+ 10 Plug 'jremmen/vim-ripgrep'
+  9 " Surround
+  8 Plug 'tpope/vim-surround'
+  7 " Syntastic
+  6 Plug 'vim-syntastic/syntastic'
+  5 call plug#end()
+  4 " Initialize plugin system
+  3 call plug#end()
+  2 "set termguicolors
+  1 "colorscheme material-monokai
+61  colorscheme dracula
